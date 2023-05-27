@@ -1,3 +1,4 @@
+//Controlador
 const Empleado = require("../models/empleado");
 const empleadoCtrl = {};
 
